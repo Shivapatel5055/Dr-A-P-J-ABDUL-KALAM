@@ -29,18 +29,8 @@ Dr-A-P-J-ABDUL-KALAM/
 
 ---
 
-## 🚀 Getting Started
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/Shivapatel5055/Dr-A-P-J-ABDUL-KALAM.git
-
-
----
-
-Simply open index.html in any browser (Chrome, Firefox, Edge).
-
-### 🛠️ Technologies Used
+🛠️ Technologies Used
 
 HTML5 → For structure of the webpage
 
@@ -68,3 +58,17 @@ Email: shivapatel5055@gmail.com
 
 This project is open-source and free to use.
 Feel free to fork and customize it for your own portfolio or tribute website.
+
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/Shivapatel5055/Dr-A-P-J-ABDUL-KALAM.git
+
+
+---
+
+### 2. How to open this repo
+
+Simply open index.html in any browser (Chrome, Firefox, Edge).
