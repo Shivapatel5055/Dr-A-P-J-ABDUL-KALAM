@@ -3,6 +3,7 @@
 This is a **simple and elegant tribute website** dedicated to **Dr. A. P. J. Abdul Kalam**, the 11th President of India and widely known as the "Missile Man of India".  
 The project is built using only **HTML and CSS** — clean, responsive, and without JavaScript.  
 
+
 ---
 
 ## ✨ Features
@@ -12,6 +13,7 @@ The project is built using only **HTML and CSS** — clean, responsive, and with
 - 📚 **About section** describing his life and achievements  
 - 📖 **Biographies section** listing books and references  
 - 🔗 Direct link to [Wikipedia](https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam) for more details  
+
 
 ---
 
@@ -35,7 +37,10 @@ git clone https://github.com/Shivapatel5055/Dr-A-P-J-ABDUL-KALAM.git
 
 Simply open index.html in any browser (Chrome, Firefox, Edge).
 
+
 ---
+
+
 
 🛠️ Technologies Used
 
@@ -45,7 +50,9 @@ CSS3 → For styling & responsiveness
 
 Google Fonts (Poppins) → For clean and modern typography
 
+
 ---
+
 
 📧 Contact
 
@@ -55,7 +62,9 @@ GitHub: Shivapatel5055
 
 Email: shivapatel5055@gmail.com
 
+
 ---
+
 
 📜 License
 
