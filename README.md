@@ -35,12 +35,10 @@ Dr-A-P-J-ABDUL-KALAM/
 ```bash
 git clone https://github.com/Shivapatel5055/Dr-A-P-J-ABDUL-KALAM.git
 
-Simply open index.html in any browser (Chrome, Firefox, Edge).
-
 
 ---
 
-
+Simply open index.html in any browser (Chrome, Firefox, Edge).
 
 🛠️ Technologies Used
 
