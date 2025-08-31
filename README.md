@@ -5,11 +5,6 @@ The project is built using only **HTML and CSS** — clean, responsive, and with
 
 ---
 
-## 📸 Preview
-![Preview Screenshot](images/A._P._J._Abdul_Kalam%20(2).jpg)
-
----
-
 ## ✨ Features
 - 📱 **Responsive design** (works on desktop & mobile)  
 - 🎨 **Modern card-style UI** with clean typography  
