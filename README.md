@@ -65,6 +65,3 @@ Feel free to fork and customize it for your own portfolio or tribute website.
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Shivapatel5055/Dr-A-P-J-ABDUL-KALAM.git
-
-
----
