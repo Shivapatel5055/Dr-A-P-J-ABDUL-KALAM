@@ -68,7 +68,3 @@ git clone https://github.com/Shivapatel5055/Dr-A-P-J-ABDUL-KALAM.git
 
 
 ---
-
-### 2. How to open this repo
-
-Simply open index.html in any browser (Chrome, Firefox, Edge).
